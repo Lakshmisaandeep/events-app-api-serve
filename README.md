@@ -3,7 +3,7 @@
 * NodeJS version 12.14.1 or greater as the Web Server
 * Express for RESTful Routes
 * Morgan for Logging
-* Mocha, Chai, NYC for Testing  
+* Mocha, Chai, NYC for Testing  .
 
 ##Instructions
 * Check the version of node with ` node -v`  
